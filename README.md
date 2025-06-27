@@ -1,6 +1,6 @@
 # Basic Python Project
 
-Welcome to the **Basic Python Project**! This repository contains a simple Python program designed to help beginners understand Python fundamentals, including variables, functions, loops, and basic file handling.
+Welcome to the **Basic Python Project**! This repository contains a simple Python program designed to help understand Python fundamentals, including variables, functions, loops, and basic file handling.
 
 ## 🚀 Getting Started
 
@@ -13,7 +13,7 @@ Welcome to the **Basic Python Project**! This repository contains a simple Pytho
 👉 **[Open in Google Colab](https://colab.research.google.com/drive/1uaCX4qi7ZR_nN2R08w9mTOQGwaRZydOv?usp=sharing)**
 
 ```bash
-pip install -r requirements.txt
+
 🚀 Running the Project Locally
 Clone the repository:
 
