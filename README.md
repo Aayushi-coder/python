@@ -44,9 +44,5 @@ Exploring libraries like pandas, matplotlib, or requests
 📝 License
 This project is open source and available under the MIT License.
 
-yaml
-Copy
-Edit
-
 
 
