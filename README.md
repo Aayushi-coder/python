@@ -23,6 +23,7 @@ Edit
 git clone https://github.com/your-username/basic-python-project.git
 cd basic-python-project
 python main.py
+
 🗂️ Project Structure
 bash
 Copy
@@ -31,7 +32,7 @@ basic-python-project/
 ├── main.py            # Main Python script with example code
 ├── README.md          # Project documentation
 └── requirements.txt   # Optional: dependencies
-🧠 Learn More
+
 This is a great starting point to practice Python. To go further, consider:
 
 Adding more complex logic (functions, modules)
@@ -47,8 +48,5 @@ yaml
 Copy
 Edit
 
----
-
-Let me know if you'd like this tailored for a specific use case (e.g., data analysis, automation, games), or if you want help generating the Colab notebook link.
 
 
