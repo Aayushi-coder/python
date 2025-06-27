@@ -9,31 +9,8 @@ Welcome to the **Basic Python Project**! This repository contains a simple Pytho
    ```bash
    git clone https://github.com/your-username/basic-python-project.git
    cd basic-python-project
-# 🐍 Basic Python Project
-
-Welcome to the **Basic Python Project**!  
-This project is designed to introduce beginners to core Python concepts like:
-
-- Variables and data types  
-- Control flow (if statements, loops)  
-- Functions  
-- Lists, dictionaries, and basic data structures  
-- File I/O
-
-You can run this project directly in your browser using Google Colab — no installation needed!
 
 👉 **[Open in Google Colab](https://colab.research.google.com/drive/1uaCX4qi7ZR_nN2R08w9mTOQGwaRZydOv?usp=sharing)**
-
----
-
-## 📦 Requirements
-
-If you prefer to run the project locally, make sure you have:
-
-- Python 3.6 or newer installed  
-- Optionally, a virtual environment
-
-Install any needed packages (if applicable) using:
 
 ```bash
 pip install -r requirements.txt
